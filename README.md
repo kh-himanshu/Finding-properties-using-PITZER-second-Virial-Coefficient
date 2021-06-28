@@ -1,5 +1,5 @@
 Reference of this paragraph:
-Introduction to Chemical Engineering Thermodynamics Eighth Edition by J. M. Smith, H. C. Van Ness, M. M. Abbott and M. T. Swihart
+Introduction to Chemical Engineering Thermodynamics Eighth Edition by J. M. Smith, H. C. Van Ness, M. M. Abbott and M. T. Swihart (Pg no 105-107)
 
 Pitzer Correlations for the Second Virial Coefficient
 The tabular nature of the generalized compressibility-factor correlation is a disadvantage, but
